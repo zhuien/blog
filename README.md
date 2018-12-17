@@ -43,6 +43,15 @@ npm test
 |   |-- assets                              // 资源文件
 |   |-- common                              // 公共方法
 |   |-- components                          // 页面
+|       |-- admin                                   // 后台
+|           |-- article                                     // 文章页面
+|           |-- eleditor                                    // 文章修改页面
+|           |-- home                                        // 后台骨架页面
+|       |-- app                                     // 前台
+|           |-- Home.vue                                     // 文章首页
+|           |-- App.vue                                      
+|           |-- ArticleDetail.vue                            // 文章详情
+|           |-- About.vue                                    
 |   |-- config                              // 配置
 |   |-- router                              // 路由
 |   |-- store                               // 模块
