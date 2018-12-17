@@ -2,7 +2,7 @@ var bodyParser = require('body-parser')
 var express = require('express')
 var api = require('./api')
 var app = express()
-/** */
+
 app.all('*', function(req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");
   res.header("Access-Control-Allow-Headers", "Content-Type,Content-Length, Authorization, Accept,X-Requested-With,X-token");
