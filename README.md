@@ -28,6 +28,7 @@ npm test
 ```
 
 # 目录结构
+```
 |-- build                           // webpack配置文件 \<br>
 |-- config                          // 项目打包路径 \<br>
 |-- mondb                           // 后台api \<br>
