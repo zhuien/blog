@@ -35,7 +35,7 @@ npm test
 |   |--api                          // 后台接口
 |       |--controller                       // 控制器
 |       |--model                            // 数据模型
-|       |--index.js                         // 接口暴露
+|       |--index.js                         
 |   |--uploads                      // 上传文件
 |   |--index.js                     // 后台入口
 |-- src                             // 源码目录
