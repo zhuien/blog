@@ -1,0 +1,1 @@
+exports.MY_URL = 'http://zhuien.top:3366'
