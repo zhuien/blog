@@ -49,3 +49,4 @@ npm test
 |   |-- App.vue\<br>                             
 |   |-- main.js\<br>                             
 |-- statis                             // 静态文件 \<br>
+```
