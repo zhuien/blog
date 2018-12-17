@@ -49,5 +49,5 @@ npm test
 |   |-- utils                               // 工具
 |   |-- App.vue                           
 |   |-- main.js                             
-|-- statis                             // 静态文件
+|-- static                             // 静态文件
 ```
