@@ -1,7 +1,6 @@
 # blog
-<<<<<<< HEAD
 
-> A Vue.js project
+> nodejs+vue+mongodb+express+elementui
 
 ## Build Setup
 
@@ -27,10 +26,3 @@ npm run e2e
 # run all tests
 npm test
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
-15:08
-15:08
-15:08
->>>>>>> 84ff1020c0bc132159646e7d612a75f4911e4e9d
