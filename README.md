@@ -1,6 +1,11 @@
-# blog
+# Blog
 
-> nodejs+vue+mongodb+express+elementui
+> 基于Nodejs + Mongodb + Vue.js 2.x系列 + Element UI 的前、后台系统
+
+## 前言
+```
+用于学习
+```
 
 ## Build Setup
 
